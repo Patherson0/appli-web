@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Local environment files
+.env.local
+
+# Distribution and build files
+dist/
+build/
+*.log
+*.tmp
